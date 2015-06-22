@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+This helped not only quickly find the differences but also ensured that there were no other changes that were overlooked.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+This can help in understanding how coding styles change, so aiding the learning of code. Also help free up mind-space to focus on other things that can not be handled by computer systems at this time. On solving problems. Make you move efficient in that you can get to code quicker for reference as well as to roll back.  Making rewriting unnecessary.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+It is subject to forgetting to commit.  Also there might be issues when you are trying to do more than one thing at a time. Maybe there is a branching feature in Git.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+It is based on the likely used cases.  Code has many links and connections between files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+You can use the command line to type in the commands to get the listings of the changes in the log.  From this you can use the IDs to identify the versions that you would like to compare with diff.
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+Once you understand and are comfortable witht the process of checking code in and out you will be able to make changes and know that you can get back to the state that the code was in.  This will allow for changes that are more involved to be made to the system.  They will involve more files and more systems.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+to get code for the Intro to Machine Learning Course.
+
