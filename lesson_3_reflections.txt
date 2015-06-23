@@ -1,1 +1,4 @@
 
+When would you want to use a remote repository rather than keeping all your work local?
+
+You might want to do this if you are not on your machine.  At work or on the road and want to get some code into the system. Very cool!
